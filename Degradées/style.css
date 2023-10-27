@@ -16,6 +16,6 @@ padding: 20px;
 }
 .Cube3 {
 
-background-image : linear-gradient(to top rgba(255, 255, 255, 0.945)rgba(255,255,255,0));
+background-image : linear-gradient(to top,rgba(255, 255, 255, 0.945 ),rgba(255,255,255,0));
 
 }
