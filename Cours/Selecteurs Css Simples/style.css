@@ -1,0 +1,24 @@
+.Texteglobal1 {
+background-color: grey;
+
+  }
+
+
+#Image {
+    width: 200px;
+    height: 200px;
+}  
+
+h1 {
+    color: red;
+}
+
+#Image2 {
+  width: 200px;
+  height: 200px;
+}
+
+.Texteglobal2 {
+
+  text-align: right;
+}
