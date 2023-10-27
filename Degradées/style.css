@@ -1,0 +1,16 @@
+div {
+    height: 200px;
+    width: 200px;
+border: solid 2px black;
+padding: 20px;
+
+}
+
+.Cube1 {
+    background-image: linear-gradient(to left bottom , red , green , blue);
+}
+
+.Cube2 {
+
+    background-image: linear-gradient(-70deg , yellow , purple 25% );
+}
