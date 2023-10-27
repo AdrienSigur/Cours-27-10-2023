@@ -8,17 +8,10 @@ h1:hover {
 
 
 #Image {
-
-    width: 200px;
-    height: 200px;
-    display: flex;
-    
-    
+  width: 200px;
+    height: 200px;      
 }
-#image{
 
-    display: none;
-}
 p:active {
     background-color: grey;
 }
@@ -30,4 +23,7 @@ a {
 
 a:link {
     color : orange;
+}
+#Image:hover {
+    display: none;
 }
