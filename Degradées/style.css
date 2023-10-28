@@ -16,7 +16,7 @@ padding: 20px;
 }
 .Cube3 {
 
-background-image :linear-gradient(to top,rgba(255, 255, 255, 0.945 ),rgba(255,255,255,0));
+    background-image: linear-gradient(to top ,rgba(255, 255, 255, 0),rgb(255, 255, 255) );
 
 }
 
@@ -25,7 +25,7 @@ background-image :linear-gradient(to top,rgba(255, 255, 255, 0.945 ),rgba(255,25
     background-image : repeating-linear-gradient(circle at center , black , white , 10px);
 }
 
-.Cube5 {
+.Cube5 :hover {
 
     background-image: repeating-linear-gradient(circle at center , white ,black 10px);
 }
