@@ -1,0 +1,31 @@
+h1 {
+    color: red;
+}
+
+
+
+#Titre1 ,#Titre3{
+    color:  blue;
+}
+
+#Titre2 {
+    color: green;
+    text-align: right;
+    text-decoration: underline;
+}
+
+#Texte1 , #Texte2 {
+    background-color: grey;
+}
+
+strong {
+    color: greenyellow ;
+    text-decoration : underline;
+}
+
+em {
+    color: yellow;
+}
+#Texte3 {
+    background-color: pink;
+}
