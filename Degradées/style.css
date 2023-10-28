@@ -14,18 +14,21 @@ padding: 20px;
 
     background-image: linear-gradient(-70deg , yellow , purple 25% );
 }
-.Cube3 {
+.Cube3   {
 
-    background-image: linear-gradient(to top ,rgba(255, 255, 255, 0),rgb(255, 255, 255) );
+    background-image: linear-gradient(to top ,rgba(0, 0, 0, 5),rgb(255, 255, 255,0.5) );
 
 }
 
 .Cube4 {
-
-    background-image : repeating-linear-gradient(circle at center , black , white , 10px);
+    background-image: repeating-radial-gradient(circle at center , pink , cyan );
 }
 
-.Cube5 :hover {
 
-    background-image: repeating-linear-gradient(circle at center , white ,black 10px);
+
+
+.Cube5 {
+    
+  background-image : repeating-radial-gradient(circle at center, black,
+  white 10px);
 }
